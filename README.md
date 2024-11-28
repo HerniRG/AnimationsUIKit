@@ -15,7 +15,7 @@ To integrate `AnimationsUIKit` into your Xcode project using Swift Package Manag
 
 1. Open your project in Xcode.
 2. Navigate to **File > Add Packages**.
-3. Enter the repository URL: `https://github.com/yourusername/AnimationsUIKit.git`.
+3. Enter the repository URL: `https://github.com/HerniRG/AnimationsUIKit.git`.
 4. Choose the version or branch you want to install.
 5. Click **Add Package**.
 
